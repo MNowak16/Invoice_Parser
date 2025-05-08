@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+
+# PyInstaller build output
+build/
+dist/
+*.spec
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS and Windows files
+.DS_Store
+Thumbs.db
